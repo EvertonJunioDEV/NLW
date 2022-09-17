@@ -1,4 +1,4 @@
-# NLW eSPorts - Trilha Explorer
+# NLW eSports - Trilha Explorer
 
 ![preview](./.gitHub/preview.png)
 
