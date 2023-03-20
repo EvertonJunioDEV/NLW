@@ -4,7 +4,7 @@
 
 >Projeto construido no evento NLW da RocketSeat.
 
-[🔗Clique aqui para acessar](https://EvertonJunioDEV.github.io/NLW-esports-explorer)
+[🔗Clique aqui para acessar](https://evertonjuniodev.github.io/NLW-esports-explorer/index.html)
 
 ## 👨‍💻 Tecnologias 
 
